@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(242, 244, 246);
+}
+nav{
+    background-image: linear-gradient(to right, rgb(232, 148, 197), rgba(238, 238, 26, 0.844));
+}
+button{
+    background-image: linear-gradient(to right, rgb(232, 148, 197), rgba(238, 238, 26, 0.844));
+}
+.my-icon{
+    font-size:80px !important;
+    color: rgb(232, 148, 197);
+}
+.services-container{
+    border:2px solid rgb(232, 148, 197);
+}
+.services-container:hover{
+    background: rgb(172, 119, 119);
+    color:white;
+}
